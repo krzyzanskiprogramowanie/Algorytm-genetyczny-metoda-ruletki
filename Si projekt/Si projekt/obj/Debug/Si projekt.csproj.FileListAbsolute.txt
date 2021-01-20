@@ -1,0 +1,107 @@
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+C:\Users\pawel\OneDrive\Desktop\SI projekt\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.dll
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.xml
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CopyComplete
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
+C:\Users\krzyz\Desktop\ProjektPoniedziałek\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.dll
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.pdb
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.xml
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CopyComplete
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
+C:\Users\pawel\OneDrive\Dokumenty\GitHub\Si\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.dll
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.dll
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.dll
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.pdb
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.xml
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.pdb
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.xml
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.pdb
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.xml
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CoreCompileInputs.cache
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CopyComplete
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+D:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.dll
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.dll
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.dll
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.pdb
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.xml
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.pdb
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.xml
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.pdb
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.xml
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CoreCompileInputs.cache
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CopyComplete
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+F:\uczelnia\semestr 5\prokop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe.config
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.exe
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\Si projekt.pdb
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.dll
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.pdb
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.xml
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csprojAssemblyReference.cache
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Form1.resources
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si_projekt.Properties.Resources.resources
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.GenerateResource.cache
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.csproj.CopyComplete
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.exe
+C:\Users\Grzegorz\Desktop\Nowy folder\Si projekt\Si projekt\obj\Debug\Si projekt.pdb
